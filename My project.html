@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+        body{
+            background-color:rgb(181, 94, 181);
+        }
+        #title{
+            color:rgb(200, 227, 50);
+        }
+        .pic{
+            margin:5px;
+            border:7px ridge red;
+            padding:9px;
+            float:auto;
+        }
+           .details{
+               color:rgb(242, 242, 242);
+               line-height:1.5;
+               font-style:italic;
+               font-size:18px;
+               
+               
+           }
+           #sum{
+               color:rgb(229, 232, 220);
+           }
+        </style>
+    </head>
+    <body>
+        
+        <h1 id="title">You're invited!</h1>
+        <h2>To the<span id="sum"> Summer</span> Party</h2>
+        <img class="pic" src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/fields-of-wine.png" width="290px"
+        height="220"
+        >
+<p><strong>The details:</strong></p>
+       <div class="details"> <ul>
+            <li><strong> Event:</strong> Summer party 2025
+
+</li>
+<li><strong>Date:</strong> June 15, 2025</li>
+<li><strong>Time:</strong> 5:00 PM</li>
+<li><strong>Location:</strong> Meadaow's Park, Edinburgh</li>
+<li><strong>Description:</strong> Come celebrate summer with food, music, games, and good vibes!</li>
+<li><strong>confirmation message:</strong> drop a messsage on this number to let know you are coming 07824947... so we cand add you to the Guest list </li>
+<li><strong>Guest List Preview:</strong></li><li> Alex</li><li>Taylor</li><li>steven</li>
+        </ul></div>
+        
+    </body>
+</html>
